@@ -209,3 +209,17 @@ This repository represents the custom business management software development s
 It is intended as a project and service showcase. It does not grant permission to redistribute, commercially use, or reproduce proprietary source code, designs, or intellectual property.
 
 For licensing or commercial enquiries, contact Naya Prayog Technologies.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Projects</b><br><br><img src="screenshots/2-projects.png" alt="Projects"></td>
+    <td align="center" width="50%"><b>Team</b><br><br><img src="screenshots/3-team.png" alt="Team"></td>
+  </tr>
+</table>
